@@ -2,7 +2,7 @@
 
 ##Description
 Dash(http://kapeli.com/) is an API Documentation Browser and Code Snippet Manager. This Sublime Text 2 Package is the integration with the Dash app.
-When viewing some file, you can trigger the command `alt+command+h` to look the current selection or word in Dash.
+When viewing some file, you can trigger the command `shift+command+h` to look the current selection or word in Dash.
 It will check the current file's extension to determine what is the default scope for searching.
 
 ##Installation
@@ -13,7 +13,7 @@ It will check the current file's extension to determine what is the default scop
 ##Usage  
 
 1. Select an portion of text
-2. hit **alt + command + h** (or the keys you asigned)
+2. hit **shift + command + h** (or the keys you asigned)
 
 ###Customization
 If you have changed the **search keyword** for certain docset, you can modify hash map in **look_up_in_dash.py**.
