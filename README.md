@@ -8,7 +8,7 @@ It will check the current file's extension to determine what is the default scop
 ##Installation
 
 1. $ `cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/`
-2. $ `git clone git://github.com:PeizGuo/LookUpInDash.git`
+2. $ `git clone git://github.com/PeizGuo/LookUpInDash.git`
 
 ##Usage  
 
