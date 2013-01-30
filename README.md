@@ -1,4 +1,4 @@
-#Look Up in Dock Sublime Text 2 Package
+#Look Up in Dash Sublime Text 2 Package
 
 ##Description
 Dash(http://kapeli.com/) is an API Documentation Browser and Code Snippet Manager. This Sublime Text 2 Package is the integration with the Dash app.
